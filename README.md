@@ -1,0 +1,2 @@
+# Mask-Detection-Using-Drone-and-Creating-e-challan-system
+Created a mobile app that would automatically send challans to defaulters who are not wearing masks. In this, I utilise a mask detection API written in Python that uses machine learning and deep learning algorithms to determine if a person is wearing a mask or not and then sends the status to the app, where We can then click the send chalaan button to send a chalaan message through email.
